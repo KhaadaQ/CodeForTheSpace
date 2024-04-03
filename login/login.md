@@ -1,3 +1,3 @@
 # Login
-Username: UsernameEx
-Password: PasswordEx
+Username: UsernameExample
+Password: PasswordExample
